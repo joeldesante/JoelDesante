@@ -9,7 +9,7 @@ https://desante.dev
 - **Strome College of Business** https://discord.gg/JPJsthMMyd
 - **Monarch Game Design Club** https://discord.gg/vWrSeUp9zR
 
-## Check out Swivi, the artificial inteligence powered fitness helper!
+## Check out Swivi, the artificial inteligence powered fitness assistant!
 Swivi is the product of a startup I am co-founding with three other entrepenures. It is an AI powered fitness application.
 
 - **Our Website** http://swivi.co and https://beige.land
