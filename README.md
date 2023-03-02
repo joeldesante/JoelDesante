@@ -4,7 +4,7 @@ I'm a full-stack developer with a wide range of experiences. Also, a student of 
 https://desante.dev
 
 ## Join one of my online communities
-- **Computer Scienc (ODU)e** https://discord.gg/computer-science
+- **Computer Scienc (ODU)** https://discord.gg/computer-science
 - **Game Studies and Design (ODU)** https://discord.gg/Ub89b4n559
 - **Strome College of Business** https://discord.gg/JPJsthMMyd
 - **Monarch Game Design Club** https://discord.gg/vWrSeUp9zR
