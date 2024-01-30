@@ -1,7 +1,7 @@
 Web developer and student of Game Design and Computer Science at Old Dominion University.
 
-## Check out my blog
-https://desante.dev
+## Check out my website
+https://joeldesante.com
 
 ## Join one of my online communities
 - **Computer Science (ODU)** https://discord.gg/computer-science
