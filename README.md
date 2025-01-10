@@ -1,4 +1,5 @@
-Software developer and student of Game Design and Computer Science at Old Dominion University.
+# Software Developer and Game Designer
+Studied at Old Dominion University.
 
 ## Check out my website
 https://joeldesante.com
